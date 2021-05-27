@@ -10,6 +10,7 @@ The libraries used in this project are  pandas and matplotlib.
 # The following questions have been answered in the data exploration part of the project:
 - Which comedy movies are available on Netflix?
 - Which genre was the most viewed by the customers?
+- Which movies are Adult movies? And which among the age category, who contributes to the most number of views?  
 - Which language movie was preffered the most by the audience?
 - Which movies should be advertised the most?
 
